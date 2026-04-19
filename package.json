@@ -1,0 +1,1 @@
+{\n  \"name\": \"wwj-platform\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"vite\",\n    \"build\": \"vite build\",\n    \"serve\": \"vite preview\"\n  },\n  \"dependencies\": {\n    \"vue\\": \"^3.2.0\",\n    \"element-plus\": \"^2.0.0-rc.16\",\n    \"axios\": \"^0.21.1\",\n    \"pinia\": \"^2.0.0\",\n    \"vue-router\": \"^4.0.0\"\n  }\n}
